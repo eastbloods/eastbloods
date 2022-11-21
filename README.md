@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Dogukan, software developer 👨‍💻</div>  
+### <div align="center">I'm Dogukan, a software developer 👨‍💻</div>  
   
 
 - 🌱 I’m currently learning Huawei Cloud Services  
