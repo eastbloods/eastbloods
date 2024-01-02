@@ -6,7 +6,7 @@
 ### <div align="center">I'm Dogukan, a software developer 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning Huawei Cloud Services  
+- 🌱 I’m working as Software Developer 
   
 
 - 🔢 I like manipulating things contains numbers.  
