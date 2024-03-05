@@ -12,7 +12,7 @@
 - 🔢 I like manipulating things contains numbers.  
   
 
-- 🏃 Learn Fast, Live Fast.  
+- 🏃 I'm a fast learner.  
   
 
 <br/>  
