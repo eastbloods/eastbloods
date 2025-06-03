@@ -6,7 +6,7 @@
 ### <div align="center">I'm Dogukan, a software developer 👨‍💻</div>  
   
 
-- 🌱 I’m studying Data Science, MDS
+- 🌱 I have a degree in Data Science, MDS
   
 
 - 🔢 I like manipulating things contains numbers.  
