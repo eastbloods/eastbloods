@@ -1,11 +1,9 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/400493/screenshots/2703191/hello.gif" align="center" style="width: 100%" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtidHV5NWEzZWE5aHJja2pmemowanQ5dm9kcnF5eGc5dmw2MHZyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center"><h2>I'm Dogukan</h2><br/><br/>Data Analyst & Software Developer | AWS Certified (Python, SQL, Cloud) 👨‍💻</div>  
-  
-
+### <div align="center"><h2>I'm Dogukan</h2><br/><br/>Data Analyst & Software Developer | AWS Certified (Python, SQL, Cloud) 👨‍💻</div><br/> 
 - 🌱 I have a degree in Data Science, MDS
   
 
