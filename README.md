@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Dogukan,<br/>Data Analyst & Software Developer | AWS Certified (Python, SQL, Cloud) 👨‍💻</div>  
+### <div align="center"><h2>I'm Dogukan</h2><br/><br/>Data Analyst & Software Developer | AWS Certified (Python, SQL, Cloud) 👨‍💻</div>  
   
 
 - 🌱 I have a degree in Data Science, MDS
