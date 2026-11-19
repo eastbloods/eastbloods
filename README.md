@@ -4,7 +4,7 @@
   
 
 ### <div align="center"><h2>I'm Dogukan</h2><br/><br/>AI Engineer | LangChain · LlamaIndex · RAG · FastAPI · Python | AWS Certified (Python, SQL, Cloud) 👨‍💻</div><br/> 
-- 🌱 I have a degree in Data Science, MDS
+- 🌱 I have a degree in Data Science, MSc
   
 
 - 🔢 I like manipulating things contains numbers.  
